@@ -4,7 +4,7 @@ The ATT (Anti Track Tracker) is a leightweight tool to check up on website visit
 ### Get started
 To get started you should add the following tag to your html
 ```html
-<script src='https://cdn.jsdelivr.net/gh/Trigstur/ATT/dist/run.min.js'> </script>
+<script src='https://cdn.jsdelivr.net/gh/Trigstur/ATT/dist/run.min.js'></script>
 ```
 This script will always depend on jQuery so if you haven't already. be sure to add it before adding the ATT.
 
